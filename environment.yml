@@ -1,0 +1,4 @@
+name: fiddlesticks_app
+dependencies:
+        - python=3.8
+        - Flask=1.1.2
